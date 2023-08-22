@@ -53,18 +53,3 @@ public class Main
 		}
 	}
 }
-
-
-
-//note
- //  Student S=new Student();
-		  //  S.getName(name);
-		  //  S.getAge(age);
-		  //  S.getGrade(grade);
-		  //  myList.add(S);
-		  
-		  // Student S = new Student();
-    //         S.name = name;
-    //         S.age = age;
-    //         S.grade = grade;
-    //         myList.add(S);
